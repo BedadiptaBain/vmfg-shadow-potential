@@ -1,0 +1,11 @@
+__pycache__/
+*.egg-info/
+.pytest_cache/
+build/
+dist/
+.venv/
+# data are downloaded by scripts/00_download_data.py (pinned sources); not committed
+data/raw/
+data/processed/
+data/user/*
+!data/user/README.md
