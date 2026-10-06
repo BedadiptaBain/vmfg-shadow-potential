@@ -15,7 +15,7 @@ The repository does three things.
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/vmfg-shadow-potential.git
+git clone https://github.com/<BedadiptaBain>/vmfg-shadow-potential.git
 cd vmfg-shadow-potential
 pip install -e ".[test]"
 pytest -q                                              # the test suite, a few seconds
