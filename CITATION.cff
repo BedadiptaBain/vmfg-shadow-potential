@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper and this software."
+type: software
+title: "vmfg-shadow-potential: replication code for a variance-supply mean-field game"
+authors:
+  - family-names: Bain
+    given-names: Bedadipta
+version: 1.0.0
+license: MIT
+preferred-citation:
+  type: article
+  title: "Equilibrium premium dynamics in a variance-supply mean-field game: a shadow-potential reduction"
+  authors:
+    - family-names: Bain
+      given-names: Bedadipta
+  year: 2026
+  notes: "Manuscript"
